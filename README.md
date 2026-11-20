@@ -1,9 +1,13 @@
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/afgil-ainudin/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/afgil-ainudin/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 # GTA VI Trophy Rarity Forecast
 
 Forecast, for every PlayStation 5 trophy of Grand Theft Auto VI, the percent
 of the players Exophase tracks who will have earned it at
-2026-11-26T00:00:00Z — a week after launch. Entry for make.fun's
-`gta6-trophy-rarity-forecast-01` bounty ($250, twenty places).
+2026-11-26T00:00:00Z — a week after launch. Entry for [make.fun's
+`gta6-trophy-rarity-forecast-01` bounty](https://make.fun/bounty/gta6-trophy-rarity-forecast-01) ($250, twenty places).
 
 ## Run it
 
